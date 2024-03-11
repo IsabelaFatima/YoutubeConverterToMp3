@@ -1,8 +1,21 @@
-# React + Vite
+# YouTube to MP3 Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+O YouTube to MP3 Converter é uma aplicação que permite converter vídeos do YouTube para arquivos de áudio no formato MP3. Esta ferramenta facilita a obtenção de trilhas sonoras de vídeos para ouvir offline.
 
-Currently, two official plugins are available:
+## Demonstração
+Confira a [demo online](https://youtube-converter-to-mp3-taz4.vercel.app/) para experimentar o conversor em ação.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Índice
+- [Instalação](#instalação)
+- [Como Usar](#como-usar)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+
+## Instalação
+Para instalar o YouTube to MP3 Converter localmente, siga estes passos:
+
+```bash
+git clone https://github.com/seu-username/youtube-to-mp3-converter.git
+cd youtube-to-mp3-converter
+npm install
