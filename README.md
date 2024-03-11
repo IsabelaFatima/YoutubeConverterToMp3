@@ -6,12 +6,6 @@ O YouTube to MP3 Converter é uma aplicação que permite converter vídeos do Y
 ## Demonstração
 Confira a [demo online](https://youtube-converter-to-mp3-taz4.vercel.app/) para experimentar o conversor em ação.
 
-## Índice
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
 ## Instalação
 Para instalar o YouTube to MP3 Converter localmente, siga estes passos:
 
